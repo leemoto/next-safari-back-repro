@@ -19,4 +19,4 @@ Open http://localhost:3100 in Safari:
 
 Without step 2, Back works. Chrome works in every case. The page shows `history.length` at the bottom.
 
-Tested with Next.js 15.5.19, React 19.1.0 and Safari 27.0.1 on macOS 27.
+Reproduces on Next.js 16.5.0-canary.32 (React 19.3.1) and on 15.5.19 (React 19.1.0), with Safari 27.0.1 on macOS 27.
